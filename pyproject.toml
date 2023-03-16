@@ -1,0 +1,28 @@
+## pyproject.toml
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "IBD"
+version = "0.0.1"
+authors = [
+    { name="carlota-upm", email="carlota.medrano@alumnos.upm.es" },
+]
+description = "My customized ORM on Sales"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/carlota-upm/IBD/sales"
+"Bug Tracker" = "https://github.com/carlota-upm/IBD/issues"
+
+
+
