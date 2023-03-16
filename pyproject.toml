@@ -19,7 +19,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/carlota-upm/IBD/sales"
+"Homepage" = "https://github.com/carlota-upm/IBD"
 "Bug Tracker" = "https://github.com/carlota-upm/IBD/issues"
 
 
