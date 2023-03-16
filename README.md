@@ -1,3 +1,3 @@
 # IBD
 
-pip install IBD==0.0.1
+pip install sales==0.0.1
