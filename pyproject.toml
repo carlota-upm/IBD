@@ -11,8 +11,6 @@ authors = [
     { name="carlota-upm", email="carlota.medrano@alumnos.upm.es" },
 ]
 description = "My customized ORM on Sales"
-readme = "README.md"
-license = { file="LICENSE" }
 requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
