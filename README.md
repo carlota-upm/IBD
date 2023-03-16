@@ -1,3 +1,4 @@
 # IBD
 
-pip install sales==0.0.1
+https://pypi.org/project/sales-module/0.0.1/
+pip install sales-module==0.0.1
